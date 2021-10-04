@@ -18,10 +18,3 @@
 <img align="left" alt="orange html icon" src="https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="blue css icon" src="https://img.shields.io/badge/CSS-%232062af?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="pink scss icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-
-
-<br>
-<br>
-
-## Currently learning & working on:
-<img align="left" alt="blue golong icon" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
