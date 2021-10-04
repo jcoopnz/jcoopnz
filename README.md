@@ -7,7 +7,7 @@
 
 <br>
 
-## Langs I speak & tools I use:
+## Proficient in:
 <img align="left" alt="yellow javascript icon" src="https://img.shields.io/badge/javascript-%23f7e018?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="black react icon" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <img align="left" alt="purple redux icon" src="https://img.shields.io/badge/redux-%23764abc?style=for-the-badge&logo=redux&logoColor=white" />
