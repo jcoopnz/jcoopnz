@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jordan!
-#### A full-stack developer who loves creating cool things, working hard in cohesive teams and pushing the bounds of what things are meant to do!
+#### I love creating cool things, positively cohesive teamwork and pushing the bounds of what's "meant" to be!
 
 ## Connect with me:
 [<img align="left" alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jordy1311/)
