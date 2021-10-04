@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jordan!
+## Hi there! 👋 I'm Jordan
 #### I love creating cool things, positively cohesive teamwork and pushing the bounds of what's "meant" to be!
 
 ## Connect with me:
