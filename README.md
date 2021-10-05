@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Jordan
-#### I love creating cool things, teamwork that is genuine/honest/fun and pushing the bounds of what's "meant" to be!
+#### I love creating cool things, teamwork that is genuine / honest / fun and pushing the bounds of what's "meant" to be!
 
 ## Connect with me:
 [<img align="left" alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jordy1311/)
