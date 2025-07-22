@@ -14,6 +14,7 @@ I love creating cool things, teamwork that is genuine / honest / fun and pushing
 <img align="left" alt="hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" />
 
 <br>
+<br>
 
 ### connected to backends / APIs using:
 <img align="left" alt="nodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
