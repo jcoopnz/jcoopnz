@@ -1,4 +1,4 @@
-# Hi there! I'm Jordan 👋 [<img align="right" alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jordy1311/)
+# Hi there! I'm Jordan 👋 [<img align="right" alt="linkedin icon" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jcoopnz/)
 I love creating cool things, teamwork that is genuine / honest / fun and pushing the bounds of what's "_meant to be_"!
 
 ## I work on apps...
